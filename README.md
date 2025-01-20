@@ -73,16 +73,6 @@ Regras de integridade:
 
 ---
 
-## 📂 Scripts SQL
-
-### **Criação das tabelas**
-Os scripts SQL para criação das tabelas podem ser encontrados no arquivo [`script_star.sql`](.script/).  
-
-### **Inserção de dados**
-Os dados de exemplo estão disponíveis no arquivo [`scriptInsert_data.sql`](.script/script).  
-
----
-
 ## 🛠️ Ferramentas Utilizadas
 * **Banco de Dados**: MySQL
 * **Ferramenta de Modelagem**: MySQL Workbench
