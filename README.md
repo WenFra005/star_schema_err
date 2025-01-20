@@ -76,10 +76,10 @@ Regras de integridade:
 ## 📂 Scripts SQL
 
 ### **Criação das tabelas**
-Os scripts SQL para criação das tabelas podem ser encontrados no arquivo [`schema.sql`](./schema.sql).  
+Os scripts SQL para criação das tabelas podem ser encontrados no arquivo [`script_star.sql`](.script/script_star.sql).  
 
 ### **Inserção de dados**
-Os dados de exemplo estão disponíveis no arquivo [`data_inserts.sql`](./data_inserts.sql).  
+Os dados de exemplo estão disponíveis no arquivo [`scriptInsert_data.sql`](.script/scriptInsert_data.sql).  
 
 ---
 
